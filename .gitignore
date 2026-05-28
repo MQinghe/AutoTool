@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+*.pth
+*.pt
+*.ckpt
+wandb/
+outputs/
+logs/
